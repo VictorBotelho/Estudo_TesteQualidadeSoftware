@@ -1,0 +1,60 @@
+1- Qual a diferença entre qualidade de processo e qualidade de produto ?
+
+R: Qualidade de Processo, produz software com pequena quantidade de defeitos enquanto a Qualidade de 
+Produto evita entregar software defeituosos para o cliente.
+(Processo - Trata seguir procedimentos, padrões, qualidade em nível amplo, tratando todas as etapas
+de um processo de desenvolvimento / Produto - Teste, Monitoramento, Antecipar Problemas).
+
+2- Do que se trata Garantia de Qualidade ?
+
+R: Acompanhar e avaliar diferentes aspectos de um projeto, serviço ou facilidade para garantir que
+os padrões de qualidade estão sendo cumpridos.  
+
+3- Do que se trata controle da Qualidade ?
+
+R: Controle de qualidade está envolvido no desenvolvimento de sistemas os quais asseguram que os
+produtos ou serviços são projetados e produzidos para atingir ou superar as expectativas dos usuários.
+
+4- Quais são os principais objetivos do teste ?
+
+R: Encontrar defeitos, ganhar confiança sobre qualidade, previnir defeitos e citar informações para
+tomada de decisões. (Se o que foi solicitado foi o que foi feito
+
+5- Considere a seguinte situação: O desenvolvedor corrigiu um bug, devolveu para o testador, o testador
+executou os passos para a reprodução deste bug, e o mesmo retornou um erro.
+5.1- O que aconteceu com o testador? Erro, Defeito ou Falha?
+
+R: Falha
+
+5.2- O que o desenvolvedor deixou no fonte? Erro, Defeito ou Falha ?
+
+R: Defeito
+
+6- Um teste bem feito garante a inexistência de bugs em um sistema ?
+
+R: Não garante a inexistência de bugs, mas evita vários. (teste exaustivo é impossível.)
+
+7- Se um projeto não possui testadores, ele antecipará problemas ?
+
+R: Não antecipará problemas, somente será entregue para o cliente cheio de bugs por consequência irá
+custar mais caro para a empresa e mais mão de obra.
+(O testador não é garantia de antecipação de defeitos/ Só pode ser garantido com outros niveis de teste
+como T.U. e T.I. / O conjunto DEV e Tester antecipam. Dev-Teste Uni, Tester-Teste Integr.)
+
+8- Se um projeto possui uma equipe de testes, uma boa qualidade do sistema é garantida ?
+
+R: Não é garantia, existem fatores relativos.
+
+9- Qualidade está ligada diretamente a existência de que ?
+
+R: Qualidade está ligada diretamente com o objetivo de garantir a conformidade de processo e
+produto. (Processo, Documentação, Testes, Requisitos Atendidos.)
+
+10- Por que deve-se testar um software ?
+
+R: Para certificar-se de que o software está cumprindo os requisitos solicitado pelo cliente e para
+garantir que não haja bugs.
+
+11- Por que não se deve testar um software ?
+
+R: Todo Software deve ser testado.
